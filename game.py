@@ -19,7 +19,7 @@ def main():
     while (again=='y'):
           play_game()
           again=input('would you like to play again? (y/n)')
-    print('So long sucker!')
+    print('Bye Bye!')
 
 
 def play_game():
